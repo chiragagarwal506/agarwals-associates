@@ -1,0 +1,16 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Agarwals & Associates</title>
+</head>
+<body>
+  <h1>Welcome to Agarwals & Associates</h1>
+  <p>Indian Accounting & Compliance Services</p>
+  <p>ITR | GST | Audit | Advisory</p>
+
+  <!-- Botpress Chatbot -->
+  <script src="https://cdn.botpress.cloud/webchat/v2/inject.js"></script>
+  <script src="https://media.botpress.cloud/YOUR_BOT_ID/webchat/v2/config.js"></script>
+</body>
+</html>
